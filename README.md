@@ -9,4 +9,4 @@ Tässä työssä rakennetaan SARIMAX-malli yrityksen sähkönkulutuksen ennustam
 ## Authors
 
 - [Kalle Alaluusua](mailto:kalle.alaluusua@aalto.fi)
-- [Stella Tuovinen]()
+- Stella Tuovinen
