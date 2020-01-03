@@ -1,4 +1,4 @@
-This Repository contains two projects: *Forecasting of Electricity Consumption and Optimization of Acquisitions* (in Finnish) and *Electricity Generation and Transmission Problem*. The first project focuses on time series analysis and forecasting, while the second project applies deterministic and stochastic linear optimization in a practical setting.
+This Repository contains two projects related to electricity economics: *Forecasting of Electricity Consumption and Optimization of Acquisitions* (in Finnish) and *Electricity Generation and Transmission Problem*. The first project focuses on time series analysis and forecasting, while the second project applies deterministic and stochastic linear optimization in a practical setting.
 
 # Forecasting of Electricity Consumption and Optimization of Acquisitions (in Finnish)
 
