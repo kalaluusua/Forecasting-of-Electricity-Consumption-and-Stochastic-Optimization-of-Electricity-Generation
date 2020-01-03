@@ -10,3 +10,12 @@ Tämä projekti on osa Aalto yliopiston kurssia MS-C2132 Systeemianalyysilaborat
 
 - [Kalle Alaluusua](mailto:kalle.alaluusua@aalto.fi)
 - Stella Tuovinen
+
+# Electricity Generation and Transmission Problem
+
+## Abstract
+
+## Authors
+
+- [Kalle Alaluusua](mailto:kalle.alaluusua@aalto.fi)
+- Rustam Latypov
