@@ -1,3 +1,5 @@
+This Repository contains two projects: *Forecasting of Electricity Consumption and Optimization of Acquisitions* (in Finnish) and *Electricity Generation and Transmission Problem*. The first project focuses on time series analysis and forecasting, while the second project applies deterministic and stochastic linear optimization in a practical setting.
+
 # Forecasting of Electricity Consumption and Optimization of Acquisitions (in Finnish)
 
 ## Abstract
@@ -14,6 +16,7 @@ Tämä projekti on osa Aalto yliopiston kurssia MS-C2132 Systeemianalyysilaborat
 # Electricity Generation and Transmission Problem
 
 ## Abstract
+This project is part of Aalto university course MS-E2121 Linear Optimization. In this project, we use Julia language to construct two linear programming models, deterministic and stochastic, which optimize investment in electricity generation technologies at five locations, and investments in the transmission capacities between the locations. This is referred to as Generation and Transmission Expansion Planning (GTEP). In order to solve a GTEP, the decision maker should be aware of the demand to be fulfilled and the possible technologies available in each location. Furthermore, the model optimizes the operation decisions, such as the hourly electricity generation and transmission levels at each location. The model involves both annual and operational costs. Five technologies considered are wind, nuclear, coal, gas (OCGT) and gas (CCGT). We are given three scenarios (pessimistic, optimistic and expected), with corresponding hourly demand and wind availability at each node for each season. These are used to construct a deterministic and two-stage stochastic optimization models.
 
 ## Authors
 
